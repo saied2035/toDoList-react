@@ -12,6 +12,10 @@ body {
   height: 100vh;
 }
 
+ul {
+  height: 50vh;
+  overflow-y: auto;
+}
 .container {
   display: flex;
   flex-direction: column;
@@ -23,7 +27,7 @@ body {
 
 .inner {
   width: 100%;
-  padding: 8rem 10px 4rem;
+  padding: 2rem 10px 2rem 10px;
 }
 
 .form-container {
