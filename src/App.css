@@ -11,10 +11,17 @@ body {
   background: #fff;
   height: 100vh;
 }
-
+a {
+  text-decoration: none;
+  color: black;
+}
 ul {
-  height: 50vh;
+  list-style: none;
+  max-height: 50vh;
   overflow-y: auto;
+}
+h1 {
+  text-align: center;
 }
 .container {
   display: flex;
@@ -27,7 +34,7 @@ ul {
 
 .inner {
   width: 100%;
-  padding: 2rem 10px 2rem 10px;
+  padding: 0 10px;
 }
 
 .form-container {
@@ -72,4 +79,30 @@ ul {
   color: darkcyan;
   font-size: 20px;
   margin-top: 2px;
+}
+#navBarList {
+  display: flex;
+  gap: 24px;
+  font-size: 18px;
+  margin-left: 2.5rem;
+}
+.active-link {
+  color: darkcyan;
+  font-weight: 500;
+}
+
+#About-page {
+  display: flex;
+  margin: 5vh 0;
+  justify-content: space-around;
+}
+
+.About-links {
+  font-size: 24px;
+}
+#About-page > li {
+  border: 1px solid green;
+  outline: 1px solid green;
+  padding: 16px;
+  border-radius: 8px;
 }
