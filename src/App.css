@@ -11,18 +11,22 @@ body {
   background: #fff;
   height: 100vh;
 }
+
 a {
   text-decoration: none;
   color: black;
 }
+
 ul {
   list-style: none;
   max-height: 50vh;
   overflow-y: auto;
 }
+
 h1 {
   text-align: center;
 }
+
 .container {
   display: flex;
   flex-direction: column;
@@ -80,12 +84,14 @@ h1 {
   font-size: 20px;
   margin-top: 2px;
 }
+
 #navBarList {
   display: flex;
   gap: 24px;
   font-size: 18px;
   margin-left: 2.5rem;
 }
+
 .active-link {
   color: darkcyan;
   font-weight: 500;
@@ -100,6 +106,7 @@ h1 {
 .About-links {
   font-size: 24px;
 }
+
 #About-page > li {
   border: 1px solid green;
   outline: 1px solid green;
