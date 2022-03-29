@@ -1,5 +1,5 @@
 {
-  "name": "react-initialization",
+  "name": "toDoList-react",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saied2035/react-initialization.git"
+    "url": "git+https://github.com/saied2035/toDoList-react.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saied2035/react-initialization/issues"
+    "url": "https://github.com/saied2035/toDoList-react/issues"
   },
   "homepage": "https://saied2035.github.io/toDoList-react/",
   "devDependencies": {
