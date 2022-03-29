@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/saied2035/react-initialization/issues"
   },
-  "homepage": "https://saied2035.github.io/toDoList-react",
+  "homepage": "https://saied2035.github.io/toDoList-react/",
   "devDependencies": {
     "@babel/core": "^7.17.8",
     "@babel/eslint-parser": "^7.17.0",
